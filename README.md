@@ -1,0 +1,2 @@
+# Two-Band-Digital-Crossover-using-FIR-Filtering-Concepts
+Using, FIR filtering concepts, a Low Pass filter and an High Pass Filter is designed.  The incoming digital audio signal is split into two bands using these designed low pass filter and high pass filter in parallel. Then, the spectrum of the original signal and the spectrum of the signal after passing through LPF and HPF have been obtained.
